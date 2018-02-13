@@ -1,0 +1,7 @@
+.progressbar .progress {
+    transition: width 100ms ease-in-out;
+  }
+
+div .jockeys {
+  display: block;
+}
