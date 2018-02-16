@@ -36,3 +36,29 @@ h1, h2 {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Track{
+  width: 100%;
+}
+
+.buttons{
+  align-content: center;
+  
+}
+
+.buttons button {
+  width: 200px;
+  height: 50px;
+}
+
+.go{
+   background-color: green;
+}
+
+.reset{
+  background-color: red;
+}
+
+.resetsamehorse {
+  background-color: crimson;
+}

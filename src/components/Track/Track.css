@@ -2,6 +2,11 @@
     transition: width 100ms ease-in-out;
   }
 
-div .jockeys {
-  display: block;
+div .start{
+  margin: 10px;
+  color: red;
+}
+
+.list {
+  width: 100%;
 }

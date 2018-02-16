@@ -3,12 +3,17 @@ img {
     height: 50px;
 }
 
-.progressbar .progress {
+.progress {
+    display: inline-block ;
+    width: 100%;
     transition: width 100ms ease-in-out;
   }
 
-div .jockey {
+.jockey img{ 
     float: left;
-    padding: 20px;
-    display: table-column;
+}
+
+.jockey {
+    padding: 30px;
+    display: block;
 }
